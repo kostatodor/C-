@@ -1,0 +1,15 @@
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.csproj.AssemblyReference.cache
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.AssemblyInfoInputs.cache
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.AssemblyInfo.cs
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.csproj.CoreCompileInputs.cache
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\bin\Debug\net6.0\Урок№6 Задача №41.exe
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\bin\Debug\net6.0\Урок№6 Задача №41.deps.json
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\bin\Debug\net6.0\Урок№6 Задача №41.runtimeconfig.json
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\bin\Debug\net6.0\Урок№6 Задача №41.dll
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\bin\Debug\net6.0\Урок№6 Задача №41.pdb
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.dll
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\refint\Урок№6 Задача №41.dll
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.pdb
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\Урок№6 Задача №41.genruntimeconfig.cache
+C:\Users\Offic\Desktop\С#\Урок№6 Задача №41\obj\Debug\net6.0\ref\Урок№6 Задача №41.dll

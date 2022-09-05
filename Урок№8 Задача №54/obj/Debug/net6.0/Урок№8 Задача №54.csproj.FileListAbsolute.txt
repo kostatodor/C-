@@ -1,0 +1,15 @@
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\bin\Debug\net6.0\Урок№8 Задача №54.exe
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\bin\Debug\net6.0\Урок№8 Задача №54.deps.json
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\bin\Debug\net6.0\Урок№8 Задача №54.runtimeconfig.json
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\bin\Debug\net6.0\Урок№8 Задача №54.dll
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\bin\Debug\net6.0\Урок№8 Задача №54.pdb
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.csproj.AssemblyReference.cache
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.AssemblyInfoInputs.cache
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.AssemblyInfo.cs
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.csproj.CoreCompileInputs.cache
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.dll
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\refint\Урок№8 Задача №54.dll
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.pdb
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\Урок№8 Задача №54.genruntimeconfig.cache
+C:\Users\Offic\Desktop\С#\Урок№8 Задача №54\obj\Debug\net6.0\ref\Урок№8 Задача №54.dll
