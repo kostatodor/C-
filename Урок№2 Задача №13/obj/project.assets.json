@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Offic\\Desktop\\С#\\Урок№1 Задача №13\\Урок№1 Задача №13.csproj",
-      "projectName": "Урок№1 Задача №13",
-      "projectPath": "C:\\Users\\Offic\\Desktop\\С#\\Урок№1 Задача №13\\Урок№1 Задача №13.csproj",
+      "projectUniqueName": "C:\\Users\\Offic\\Desktop\\С#\\Урок№2 Задача №13\\Урок№2 Задача №13.csproj",
+      "projectName": "Урок№2 Задача №13",
+      "projectPath": "C:\\Users\\Offic\\Desktop\\С#\\Урок№2 Задача №13\\Урок№2 Задача №13.csproj",
       "packagesPath": "C:\\Users\\Offic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Offic\\Desktop\\С#\\Урок№1 Задача №13\\obj\\",
+      "outputPath": "C:\\Users\\Offic\\Desktop\\С#\\Урок№2 Задача №13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Offic\\AppData\\Roaming\\NuGet\\NuGet.Config"
